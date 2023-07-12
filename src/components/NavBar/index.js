@@ -1,12 +1,4 @@
 import React from "react";
-import {
-  MDBNavbar,
-  MDBNavbarBrand,
-  MDBNavbarNav,
-  MDBNavItem,
-  MDBNavLink,
-  MDBIcon,
-} from "mdbreact";
 
 function Navbar() {
   return (

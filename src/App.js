@@ -1,5 +1,4 @@
 import React from "react";
-import { HashRouter, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/index";
 import Footer from "./components/Footer/index";
 import Wrapper from "./components/Wrapper/index";

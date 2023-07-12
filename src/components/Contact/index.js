@@ -1,5 +1,4 @@
 import React from "react";
-import { MDBContainer, MDBRow, MDBCol, MDBIcon } from "mdbreact";
 
 const ContactInfo = () => {
   return (
