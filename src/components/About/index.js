@@ -7,12 +7,6 @@ const AboutMe = () => {
         <MDBCol md="12">
           <h2>About Me</h2>
           <hr class="solid bg-dark" />
-          <img
-            style={{ height: "285px" }}
-            
-            class="float-left pr-4 pb-3 img-fluid"
-            
-          />
           <p style={{ fontSize: "27px" }}>
             Hello, my name is Kelsi Thacker. I recently graduated a Full Stack
             Web Developer program at the University of Arizona and received
